@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darren
-- 👀 I’m interested in Python, c#, SQL, Angular, git, and some RPA tools.
-- 🌱 I’m currently learning Angular by building a personal website.
+- 👀 I’m interested in Python, c#, SQL, AI and some RPA tools.
+- 🌱 I’m currently a developer who works with C# and SQL
 - 📫 How to reach me darrengoodin.com or email Dgoodin745@gmail.com
 
 <!---
